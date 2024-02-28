@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\bin\Debug\net6.0\TestSinifProject.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\bin\Debug\net6.0\TestSinifProject.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\bin\Debug\net6.0\TestSinifProject.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\bin\Debug\net6.0\TestSinifProject.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\bin\Debug\net6.0\TestSinifProject.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\refint\TestSinifProject.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\TestSinifProject.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\TestSinifProject\TestSinifProject\obj\Debug\net6.0\ref\TestSinifProject.dll

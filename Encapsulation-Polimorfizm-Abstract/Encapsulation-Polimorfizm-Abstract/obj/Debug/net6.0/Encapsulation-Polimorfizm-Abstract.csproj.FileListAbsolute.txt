@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\bin\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\refint\Encapsulation-Polimorfizm-Abstract.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\Encapsulation-Polimorfizm-Abstract.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Encapsulation-Polimorfizm-Abstract\Encapsulation-Polimorfizm-Abstract\obj\Debug\net6.0\ref\Encapsulation-Polimorfizm-Abstract.dll

@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\bin\Debug\net6.0\FIrsTestProject.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\bin\Debug\net6.0\FIrsTestProject.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\bin\Debug\net6.0\FIrsTestProject.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\bin\Debug\net6.0\FIrsTestProject.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\bin\Debug\net6.0\FIrsTestProject.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\refint\FIrsTestProject.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\FIrsTestProject.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\FIrsTestProject\FIrsTestProject\obj\Debug\net6.0\ref\FIrsTestProject.dll
